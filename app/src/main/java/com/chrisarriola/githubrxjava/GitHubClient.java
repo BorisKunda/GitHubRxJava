@@ -1,6 +1,6 @@
 package com.chrisarriola.githubrxjava;
 
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 import com.google.gson.FieldNamingPolicy;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
